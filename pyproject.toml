@@ -29,6 +29,8 @@ dependencies = [
   "sox",
   "onnxruntime",
   "einops",
+  "faster-whisper",
+  "deepfilternet",
 ]
 
 [project.urls]
